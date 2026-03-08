@@ -1,0 +1,4 @@
+data/
+mixed_dataset/
+__pycache__/
+.DS_Store
